@@ -1,2 +1,2 @@
 # Cryptography
-This repos cotains some example in cruptography
+This repos cotains some example in cryptography
